@@ -40,16 +40,16 @@ st.markdown("""
 
 # === Income sources and vibes ===
 common_income_sources = {
-    'Alabama': 'Automotive', 'AK': 'Oil & Gas', 'AZ': 'Aerospace', 'AR': 'Agriculture', 'CA': 'Technology',
+    'AL': 'Automotive', 'AK': 'Oil & Gas', 'AZ': 'Aerospace', 'AR': 'Agriculture', 'CA': 'Technology',
     'CO': 'Tourism', 'CT': 'Insurance', 'DE': 'Chemicals', 'FL': 'Tourism', 'GA': 'Logistics',
     'HI': 'Hospitality', 'ID': 'Agriculture', 'IL': 'Manufacturing', 'IN': 'Automotive', 'IA': 'Agriculture',
     'KS': 'Aviation', 'KY': 'Bourbon & Manufacturing', 'LA': 'Petrochemicals', 'ME': 'Paper & Forestry',
     'MD': 'Defense', 'MA': 'Biotech', 'MI': 'Automotive', 'MN': 'Healthcare', 'MS': 'Agriculture',
-    'MO': 'Aerospace', 'MT': 'Mining', 'Nebraska': 'Agriculture', 'Nevada': 'Gaming & Tourism',
-    'NH': 'Manufacturing', 'New Jersey': 'Pharmaceuticals', 'NM': 'Energy', 'New York': 'Finance', 'NC': 'Banking',
-    'ND': 'Energy', 'OH': 'Automotive', 'OK': 'Oil & Gas', 'Orlando': 'Technology', 'PA': 'Healthcare',
+    'MO': 'Aerospace', 'MT': 'Mining', 'NE': 'Agriculture', 'NV': 'Gaming & Tourism',
+    'NH': 'Manufacturing', 'NJ': 'Pharmaceuticals', 'NM': 'Energy', 'NY': 'Finance', 'NC': 'Banking',
+    'ND': 'Energy', 'OH': 'Automotive', 'OK': 'Oil & Gas', 'OR': 'Technology', 'PA': 'Healthcare',
     'RI': 'Jewelry & Design', 'SC': 'Automotive', 'SD': 'Agriculture', 'TN': 'Music & Manufacturing',
-    'Texas': 'Oil & Gas', 'Utah': 'Tech Startups', 'VT': 'Dairy', 'VA': 'Defense', 'WA': 'Software',
+    'TX': 'Oil & Gas', 'UT': 'Tech Startups', 'VT': 'Dairy', 'VA': 'Defense', 'WA': 'Software',
     'WV': 'Coal Mining', 'WI': 'Dairy', 'WY': 'Mining'
 }
 
