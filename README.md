@@ -8,7 +8,7 @@ Created as part of **Assignment 3** for **AGEN 892** by **Ishrat Jandu**, this p
 
 ##  Features
 **State-wise and county-wise median income visualization**
-**Vibrant choropleth heatmap** (red = low income, green = high income)
+**Vibrant choropleth heatmap** red means low income, and green means a higher income
 Quotes capturing the **"vibe"** of each state based on its primary income source
 Embedded tooltips for easy interpretation
 Responsive layout using Streamlit and Folium
