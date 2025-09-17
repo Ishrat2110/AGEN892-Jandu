@@ -8,7 +8,7 @@ import requests
 
 # === Header and Greeting ===
 st.set_page_config(page_title="State Income Explorer", layout="wide")
-st.title("🗺️ U.S. Income Heatmap")
+st.title(" U.S. Income Heatmap")
 st.markdown(
     '<h3 style="margin-top:0;">'
     '<a href="https://www.linkedin.com/in/ishrat-jandu-b3b478255/" target="_blank">Ishrat Jandu</a>'
