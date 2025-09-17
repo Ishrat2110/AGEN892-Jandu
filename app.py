@@ -27,7 +27,7 @@ def load_data():
 income = load_data()
 
 # === Explain Columns ===
-st.markdown("### 🧾 Column Descriptions")
+st.markdown("###  Column Descriptions")
 st.markdown("""
 - **fips**: Unique code for each county (used for geographic referencing).
 - **county**: Name of the county.
